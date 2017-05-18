@@ -1,6 +1,5 @@
 # VueTwoWayBinding
 ## vue双向绑定实现原理
-#### 参考链接：https://juejin.im/entry/59116fa6a0bb9f0058aaaa4c
 ###  vue最核心功能：数据绑定系统 组件系统
 ### vue双向绑定的技术点
 #### 1. defineProperty() 访问器属性 
